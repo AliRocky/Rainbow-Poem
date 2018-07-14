@@ -4,8 +4,10 @@ purple
 pink 
 orange
 blue
+unicorn
 red
 green
 yellow
 
 THese are the colors of my rainbow. 
+And these are the colors of the unicorn. 
